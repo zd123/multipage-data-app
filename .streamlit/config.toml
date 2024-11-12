@@ -1,0 +1,10 @@
+[theme]
+
+
+# primaryColor = "#F63366"
+# backgroundColor = "white"
+
+
+## READ THE DOCS HERE
+# https://blog.streamlit.io/introducing-theming/
+# https://docs.streamlit.io/develop/api-reference/configuration/config.toml?ref=blog.streamlit.io#set-configuration-options
